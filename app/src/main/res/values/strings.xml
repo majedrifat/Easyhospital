@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Easy Hospital</string>
+    <string name="enter_dr_name">Enter DR. Name*</string>
+    <string name="specialist">Specialist</string>
+    <string name="phone_number">Phone Number*</string>
+    <string name="address">Address</string>
+
+
+    <string-array name="h_name">
+        <item>Japan Bangladesh Friend Hospital</item>
+        <item>Apollo Hospital</item>
+        <item> Dhaka Medical College Hospita </item>
+        <item>Central Hospital Ltd</item>
+        <item>S.P.R.C And Neurology Hospital</item>
+        <item>Islami Bank Hospital</item>
+        <item>Health and Hope Hospital</item>
+    </string-array>
+
+    <string-array name="h_status">
+        <item>Private Hospital</item>
+        <item>Private Hospital</item>
+        <item>Public Hospital</item>
+        <item>Private Hospital</item>
+        <item>Private Hospital</item>
+        <item>Private Hospital</item>
+        <item>Private Hospital</item>
+    </string-array>
+
+    <string-array name="h_phone">
+        <item>+88029672277</item>
+        <item>+880255037242</item>
+        <item>+880289324340</item>
+        <item>+880296600159</item>
+        <item>+88029339089</item>
+        <item>+8801992346631</item>
+        <item>+88029137076</item>
+    </string-array>
+
+    <string-array name="h_open">
+        <item>55, Satmasjid Road(Zigatola Bus Stand), Dhanmondi, Dhaka - 1209, Bangladesh</item>
+        <item>Plot # 81, Block # E, Bashundhara R/A, Dhaka - 1229, Bangladesh</item>
+        <item>Secretariate Road, Dhaka 1000, Bangladesh</item>
+        <item> Green Road,, 2 Rd 5, Dhaka 1207, Bangladesh</item>
+        <item>135, New Eskaton Road, New Eskaton Road, Dhaka 1000, Bangladesh</item>
+        <item>Purobi Bus Stop, Begum Rokeya Avenue, 1216, Dhaka 1216</item>
+        <item>Green Road ,Dhaka-1205</item>
+    </string-array>
+
+
+</resources>
